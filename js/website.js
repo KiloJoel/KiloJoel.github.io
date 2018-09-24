@@ -6,10 +6,12 @@ $("#hide-button").click(function() {
     if (hidden)
     {
         $("#block-of-text").show();
+        $("#hide-button").text("Hide");
     }
     else
     {
         $("#block-of-text").hide();
+        $("#hide-button").text("Show");
     }
 });
 
