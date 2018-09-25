@@ -90,7 +90,7 @@
     //   echo "</div>"
 
     // }
-    ?> -->
+    ?>
 
     <!-- Styles (so that we can see the grid) -->
    <!-- <style scoped>
