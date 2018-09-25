@@ -69,28 +69,9 @@
         <div class="col-xs-4"><img class="grid-image" src="Images/demo.jpg"/></div>
         <div class="col-xs-1">.col-xs-1</div>
       </div>
-     
     </div>
     
-    <?php 
-    $numQuests = 10;
-    for ($questCount=0; $questCount < $numQuests; $questCount++) {
-      echo "<div class=\"bs-example\">";
-      echo "  <div class=\"row\">";
-      echo "    <div class=\"col-xs-1\"></div>";
-      echo "    <div class=\"col-xs-4\">";
-      echo "      <h2>Cook's Assistant</h2>";
-      echo "      <img class=\"grid-image\" src=\"Images/demo.jpg\"/>";
-      echo "      <p>Text that would be loaded from a database</p>";
-      echo "    </div>";
-      echo "    <div class=\"col-xs-2\">.col-xs-2</div>";
-      echo "    <div class=\"col-xs-4\"><img class=\"grid-image\" src=\"Images/demo.jpg\"/></div>";
-      echo "    <div class=\"col-xs-1\">.col-xs-1</div>";
-      echo "  </div>";
-      echo "</div>";
-
-    }
-    ?>
+    
 
     <!-- Styles (so that we can see the grid) -->
    <!-- <style scoped>
