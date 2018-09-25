@@ -57,7 +57,7 @@
     </div>
 
     <div class="bs-example">
-       Bootstrap Grid 
+       <!-- Bootstrap Grid  -->
       <div class="row">
         <div class="col-xs-1"></div>
         <div class="col-xs-4">
