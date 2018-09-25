@@ -14,3 +14,6 @@ body>div.container {
 h2 {
   text-align: center;
 }
+.custom-checkbox {
+  float: left;
+}
