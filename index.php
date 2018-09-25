@@ -71,7 +71,10 @@
       </div>
     </div>
     
+    <?php 
     
+    echo "test text";
+    ?>
 
     <!-- Styles (so that we can see the grid) -->
    <!-- <style scoped>
